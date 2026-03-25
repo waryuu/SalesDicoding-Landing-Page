@@ -15,7 +15,7 @@ Proyek ini berfokus pada implementasi struktur HTML semantik dan styling menggun
 
 ## 💻 Cara Menjalankan
 1. Clone repositori ini.
-2. Buka file `index.html` langsung di browser favoritmu.
+2. Buka file `index.html` langsung di browser.
 
 ---
 *Proyek ini adalah bagian dari portofolio pembelajaran Web Development.*
